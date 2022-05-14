@@ -75,3 +75,22 @@ nav {
 .swiper-container {
     overflow: hidden;
 }
+.about-header {
+    background-image: url(./images/sv.jpg);
+    background-position: center center;
+    background-attachment: scroll;
+    background-size: cover;
+    max-height: 350px;
+} 
+.fn1{
+	font-family: 'Baloo Bhaijaan 2', cursive;
+}
+.fn2{
+	font-family: 'Josefin Sans', sans-serif;
+}
+.fn3{
+	font-family: 'Courgette', cursive;
+}
+.fn4{
+	font-family: 'Josefin Sans', sans-serif;
+}
