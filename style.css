@@ -94,3 +94,8 @@ nav {
 .fn4{
 	font-family: 'Josefin Sans', sans-serif;
 }
+
+#display-modal {
+    background: rgb(255, 255, 255, 0.3);
+    backdrop-filter: blur(8px);
+}
